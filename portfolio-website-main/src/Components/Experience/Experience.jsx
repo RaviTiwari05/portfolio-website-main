@@ -46,7 +46,7 @@ const Experience = () => {
               <p className="text-sm leading-tight font-thin">2022 - Present</p>
               <ul className="text-sm p-2">
                 <li>- B.Tech in Civil Engineering</li>
-                <li>- CPI: 8.46/10 (Till 6th semester)</li>
+                <li>- CPI: 8.54/10 (Till 6th semester)</li>
               </ul>
             </span>
           </div>
